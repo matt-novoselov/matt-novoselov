@@ -1,6 +1,6 @@
 ### Hi, I'm Matt Novoselov 👋
 
-I'm a developer, who loves bringing crazy ideas to life through software. I pay special attention to working with graphic information, creating visual effects that give my projects uniqueness and attractiveness.
+I'm a developer, who loves bringing innovative ideas to life through software. I pay special attention to working with graphic information, creating visual effects that give my projects uniqueness and attractiveness.
 
 ## Contact
 - Email: [matt@novoselov.dev](mailto://matt@novoselov.dev)
@@ -20,8 +20,6 @@ I'm a developer, who loves bringing crazy ideas to life through software. I pay 
 
 ## GitHub Analytics
 <p align="center">
-<a href="https://github.com/matt-novoselov">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matt-novoselov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matt-novoselov&layout=compact&langs_count=8&theme=dark"/>
-</a>
 </p>
