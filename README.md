@@ -19,7 +19,7 @@ I'm a developer, who loves bringing crazy ideas to life through software. I pay 
 
 
 ## GitHub Analytics
-<p align="center">
+<div style="display: flex;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matt-novoselov&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=dark"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matt-novoselov&layout=compact&theme=dark"/>
-</p>
+</div>
