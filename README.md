@@ -1,6 +1,6 @@
 ### Hi, I'm Matt Novoselov 👋
 
-I'm a developer, who loves bringing innovative ideas to life through software. I pay special attention to working with graphic information, creating visual effects that give my projects uniqueness and attractiveness.
+I'm a developer who loves bringing ideas to life through software. I always pay a lot of attention to the visual part of my projects to ensure that the UX is intuitive and enjoyable.
 
 ## Contact
 - Email: [matt@novoselov.dev](mailto://matt@novoselov.dev)
