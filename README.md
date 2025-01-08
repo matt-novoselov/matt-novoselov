@@ -1,6 +1,8 @@
-### Hi, I'm Matt Novoselov 👋
+### Hi, I'm Matvei Novoselov 👋
 
-I'm a developer who loves bringing ideas to life through software. I always pay a lot of attention to the visual part of my projects to ensure that the UX is intuitive and enjoyable. Make sure to check out some of my pinned projects below!
+I am a VisionOS & iOS Developer
+
+Currently advancing research in XR and Robotics at the Apple Developer Academy. Proven track record of delivering successful projects from concept to launch, and strong skills in problem-solving, and team collaboration. Eager to explore new technologies and share knowledge. Make sure to check out some of my pinned projects below!
 
 ## Contact
 - Email: [matt@novoselov.dev](mailto://matt@novoselov.dev)
