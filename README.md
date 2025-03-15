@@ -27,3 +27,6 @@ Currently advancing research in XR and Robotics at the Apple Developer Academy. 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matt-novoselov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matt-novoselov&layout=compact&langs_count=8&theme=dark"/>
 </p>
+
+## Leetcode Analytics
+![LeetCode Stats](https://leetcard.jacoblin.cool/matvei-novoselov?theme=dark&font=Noto%20Sans%20Mro)
