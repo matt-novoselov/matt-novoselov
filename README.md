@@ -29,4 +29,4 @@ Currently advancing research in XR and Robotics at the Apple Developer Academy. 
 </p>
 
 ## Leetcode Analytics
-![LeetCode Stats](https://leetcard.jacoblin.cool/matvei-novoselov?theme=dark&font=Noto%20Sans%20Mro)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/matvei-novoselov?theme=dark&font=Noto%20Sans%20Mro)](https://leetcode.com/matvei-novoselov/)
