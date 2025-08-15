@@ -1,8 +1,8 @@
 ### Hi, I'm Matvei Novoselov 👋
 
-I am iOS & visionOS Developer
+I am iOS and visionOS developer with more than three years of experience building high-performance, user-focused applications.
 
-Currently advancing research in XR and Robotics at the Apple Developer Academy. Proven track record of delivering successful projects from concept to launch, and strong skills in problem-solving, and team collaboration. Eager to explore new technologies and share knowledge. Make sure to check out some of my pinned projects below!
+Led development of multiple projects from concept to launch in collaboration with diverse teams. Make sure to check out some of my pinned projects below!
 
 ## Contact
 - Email: [matt@novoselov.dev](mailto://matt@novoselov.dev)
