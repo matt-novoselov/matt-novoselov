@@ -6,7 +6,6 @@ Led development of multiple projects from concept to launch in collaboration wit
 
 ## Contact
 - Email: [matt@novoselov.dev](mailto://matt@novoselov.dev)
-- Discord: [@matt_novoselov](https://discordapp.com/users/matt_novoselov/)
 - Telegram: [@matt_novoselov](https://t.me/matt_novoselov)
 
 ## Tech Stack
