@@ -5,7 +5,7 @@ I am iOS and visionOS developer with more than three years of experience buildin
 Led development of multiple projects from concept to launch in collaboration with diverse teams. Make sure to check out some of my pinned projects below!
 
 ## Contact
-- Email: [matt@novoselov.dev](mailto://matt@novoselov.dev)
+- Email: [novoselov.jobs@gmail.com](mailto://novoselov.jobs@gmail.com)
 - Telegram: [@matt_novoselov](https://t.me/matt_novoselov)
 
 ## Tech Stack
