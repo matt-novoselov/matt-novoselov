@@ -1,12 +1,6 @@
 ### Hi, I'm Matvei Novoselov 👋
 
-I am iOS and visionOS developer with more than three years of experience building high-performance, user-focused applications.
-
-Led development of multiple projects from concept to launch in collaboration with diverse teams. Make sure to check out some of my pinned projects below!
-
-## Contact
-- Email: [novoselov.jobs@gmail.com](mailto://novoselov.jobs@gmail.com)
-- Telegram: [@matt_novoselov](https://t.me/matt_novoselov)
+Matvei (Matt) Novoselov is an iOS and visionOS Software Engineer at Sony Group in London, UK, specializing in XR and spatial computing. He is a public XR speaker and an alumnus of the Apple Developer Academy, as well as a winner of the Apple Swift Student Challenge 2025. Matvei is also the co-author of a scientific research paper on XR and spatial computing presented at the International Conference on Social Robotics (ICSR) and published by Springer. His work focuses on creating immersive experiences and exploring new possibilities for spatial applications on Apple platforms.
 
 ## Tech Stack
 ![Swift](https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift3.svg)
